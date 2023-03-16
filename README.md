@@ -1,7 +1,13 @@
-### Hi there 👋
-<a href="https://t.me/ritapolsh">
- <img src="{https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white}" />
-</a>
+# Hi, I'm Margo 👋
+
+<p align='center'>
+   <a href="https://t.me/joinchat/ritapolsh">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+ 
+   📫 How to reach me: <a href='mailto:ritapolshakova@gmail.com'>ritapolshakova@gmail.com</a>
+</p>
 
 <!--
 **MargoPolsh/MargoPolsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
